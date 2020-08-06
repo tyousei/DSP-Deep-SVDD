@@ -1,0 +1,11 @@
+log begin:
+dataset- 0,  auc:  0.976  , FDR:  1.000  ,  FPR:  0.393   
+dataset- 1,  auc:  0.901  , FDR:  0.684  ,  FPR:  0.048   
+dataset- 2,  auc:  0.895  , FDR:  0.717  ,  FPR:  0.156   
+dataset- 3,  auc:  0.895  , FDR:  0.798  ,  FPR:  0.030   
+dataset- 4,  auc:  0.980  , FDR:  0.950  ,  FPR:  0.053   
+dataset- 5,  auc:  0.948  , FDR:  0.873  ,  FPR:  0.050   
+dataset- 6,  auc:  0.475  , FDR:  0.207  ,  FPR:  0.121   
+dataset- 7,  auc:  0.834  , FDR:  0.330  ,  FPR:  0.043   
+dataset- 8,  auc:  0.979  , FDR:  0.886  ,  FPR:  0.050   
+dataset- 9,  auc:  0.609  , FDR:  0.312  ,  FPR:  0.136   
